@@ -12,8 +12,22 @@ body
      border: 1px solid #ddd;
      margin: 0 auto;
 
+}
+#cabezera
+{
+    background-color: rgb(47, 83, 107);
+    box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, 0.5);
+    color: rgb(255, 255, 255);
+    margin: 0;
+    padding: 0.5em;
 
+}
 
+#cabezera #tagline
+{
+    margin: 1em 0 0 0;
+    font-weight: normal;
+    font-size: 0.8em;
 }
 
 #container h1
