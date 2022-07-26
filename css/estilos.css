@@ -1,6 +1,10 @@
 body
 {
+<<<<<<< HEAD
     color: rgb(26, 41, 177);
+=======
+    color: rgb(228, 29, 29)
+>>>>>>> cabezera
     text-align: center;
     font-family: "Arial";
 }
